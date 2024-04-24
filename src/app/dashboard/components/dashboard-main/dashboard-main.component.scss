@@ -1,0 +1,13 @@
+.outside-container{
+    background-color: rgb(234, 234, 234);
+}
+h1{
+    font-weight: 700;
+    font-family: Roboto;
+}
+.chart-container{
+    height: 80vh;
+    .col-md-3,.col-md-6{
+        display: flex;
+    }
+}
